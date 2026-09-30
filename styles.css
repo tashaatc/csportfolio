@@ -35,9 +35,23 @@ p {
   font-size: 18px;
 }
 
+img {
+  display: block;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-left: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+#tasha {
+  width: 350px;
+}
+
+#tulum,
 .assignment {
-  width: 300px;
-  height: 300px;
+  width: 500px;
 }
 
 #thank-you {
