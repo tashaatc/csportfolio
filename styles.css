@@ -1,6 +1,7 @@
 body {
   font-family: "Trebuchet MS", sans-serif;
   background-color: #f7f1fc;
+  margin: 20px;
 }
 
 header {
@@ -24,8 +25,8 @@ h2 {
 }
 
 img {
-  width: 200px;
-  height: 200px;
+  width: 400px;
+  height: 400px;
 }
 
 p {
@@ -33,11 +34,11 @@ p {
 }
 
 .class {
-  width: 100px;
-  height: 100px;
+  width: 300px;
+  height: 300px;
 }
 
 #thank-you {
-  font-style: bold;
+  font-weight: 600;
 }
   
