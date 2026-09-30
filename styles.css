@@ -1,5 +1,6 @@
 body {
   font-family: "Trebuchet MS", sans-serif;
+  background-color: #f7f1fc;
 }
 
 header {
@@ -10,3 +11,33 @@ h1 {
   font-size: 64px;
   text-align: center;
 }
+
+#heading {
+  text-align: center;
+  font-size: 40px;
+  font-style: italic;
+}
+
+h2 {
+  font-size: 52px;
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.class {
+  width: 100px;
+  height: 100px;
+}
+
+#thank-you {
+  font-style: bold;
+}
+  
