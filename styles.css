@@ -71,6 +71,10 @@ img {
   width: 500px;
 }
 
+button {
+  text-align: center;
+}
+
 #thank-you {
   font-weight: 800;
   text-align: center;
