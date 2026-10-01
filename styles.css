@@ -27,7 +27,7 @@ h1 {
 }
 
 h2 {
-  font-size: 52px;
+  font-size: 50px;
   text-align: center;
   background-color: #6e5084;
   color: white;
@@ -72,7 +72,11 @@ img {
 }
 
 button {
-  text-align: center;
+  display: block;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-left: auto;
 }
 
 #thank-you {
